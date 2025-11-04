@@ -1,4 +1,4 @@
-package Arrays.com;
+package Arrays;
 
 public class Ques55 {
     public boolean canJump(int[] nums) {

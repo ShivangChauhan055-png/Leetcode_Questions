@@ -1,4 +1,4 @@
-package Arrays.com;
+package Arrays;
 
 public class Ques1925 {
     public int findNumbers(int[] nums) {
