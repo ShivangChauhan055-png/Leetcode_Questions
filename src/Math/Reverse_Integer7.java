@@ -1,5 +1,6 @@
-public class Reverse_Integer7 {
+package Math;
 
+public class Reverse_Integer7 {
     // Function to reverse the integer
     public static int reverse(int x) {
         int rev = 0;
@@ -25,5 +26,3 @@ public class Reverse_Integer7 {
         System.out.println(reverse(1534236469)); // Output: 0 (overflow case)
     }
 }
-
-

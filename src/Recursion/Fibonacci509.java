@@ -1,4 +1,6 @@
-import java.util.*;
+package Recursion;
+
+import java.util.Scanner;
 
 public class Fibonacci509 {
     public static void main(String[] args) {
