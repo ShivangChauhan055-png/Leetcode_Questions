@@ -3,7 +3,7 @@ package Arrays;
 // Ques3583.java
 // LeetCode 3583 : Special Triplets
 //
-// 👉 IDEA (Easy Language):
+// IDEA (Easy Language):
 // Hum array ko left se right process karenge.
 // Aur 3 cheeze track karenge:
 //
