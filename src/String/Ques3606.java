@@ -1,7 +1,6 @@
 package String;
 
 // Ques3606.java
-//
 // IDEA (Simple Language):
 // Hume valid coupons return karne hain based on rules:
 //
