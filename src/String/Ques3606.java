@@ -96,7 +96,7 @@ public class Ques3606 {
         return true; // saare characters valid hain
     }
 
-    // Optional testing
+
     public static void main(String[] args) {
 
         Ques3606 obj = new Ques3606();
