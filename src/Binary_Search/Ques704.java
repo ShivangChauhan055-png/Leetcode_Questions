@@ -72,7 +72,6 @@ public class Ques704 {
         // base case
         if(low > high)
             return -1;
-
         int mid = (low + high) / 2;
         if(nums[mid] == target)
             return mid;
