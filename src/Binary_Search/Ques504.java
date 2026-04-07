@@ -1,8 +1,8 @@
-package Bit_Manipulation;
+package Binary_Search;
+
 
 // Ques540.java
-
-class Ques540 {
+class Ques504 {
     public int singleNonDuplicate(int[] nums) {
         int n = nums.length;
         //  edge cases
@@ -37,3 +37,4 @@ class Ques540 {
         return -1;
     }
 }
+
